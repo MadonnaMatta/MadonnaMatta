@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MadonnaMatta
 - 👀 I’m interested in Front End Development and Analytics Engineering
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Python 
 - 📫 How to reach me : @MadonnaMatta on all platforms
 
 <!---
